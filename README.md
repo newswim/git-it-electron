@@ -1,5 +1,7 @@
 # Git-it (Desktop App)
 
+** This is currently broken **
+
 [![Build Status](https://travis-ci.org/jlord/git-it-electron.svg?branch=master)](https://travis-ci.org/jlord/git-it-electron) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ![screen shot 2016-04-17 at 10 37 55 pm](https://cloud.githubusercontent.com/assets/1305617/14594613/23873f64-04ed-11e6-9d3b-72f424dd0842.png)
